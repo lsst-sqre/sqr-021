@@ -42,14 +42,6 @@
 
 .. sectnum::
 
-.. TODO: Delete the note below before merging new content to the master branch.
-
-.. note::
-
-   **This technote is not yet published.**
-
-   The JupyterLab environment is becoming a powerful tool for all sorts of tasks that LSST team members commonly undertake. Data exploration and analysis are obvious cases where the distributed notebook environment is useful. This notebook will show how to use the notebook environment in conjunction with other aspects of JupyterLab: shell access and git authentication, to produce a meaningful development workflow.
-
 .. Add content here.
 .. Do not include the document title (it's automatically added from metadata.yaml).
 
